@@ -19,7 +19,11 @@ I am Prayas , currently a CS junior at Indian Institute of Engineering Science a
 I am passionate about Problem Solving , Machine Learning and AI, Mathematics , Quantum Computing with a flair for innovation and modern technology . I am also an amateur Full Stack Web Developer.
 
 
-Beyond the realm of academics , I am an avid Sports lover .I love playing Cricket and Chess. (oops did I miss watching Football , Tennis and WWE too? :)) . I love Quizzing ,tons of music,reading about Geopolitics , History and Literature .
+Beyond the realm of academics , I am an avid Sports lover .I love playing Cricket and Chess. (oops did I miss mentioning watching Football , Tennis and WWE ? :)) . I love Quizzing ,tons of music,reading about Geopolitics , History and Literature .  
+📫 Reach me **mazumder.prayas@gmail.com**  
+🌱 I’m currently learning ... a ton of things :)   
+😄 Pronouns: he/him (obviously!!)   
+⚡ Fun fact: I'm funny ha ha ...  
 
 
 
@@ -54,14 +58,15 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
+    <a href="https://pytorch.org/" target="_blank" title="Pytorch">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="50" height="40" />
+</a>
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
-
-
+     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img 
+            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    
 
 
 
@@ -69,10 +74,13 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 📈 Github Stats  :
 ---
  
- 
+<!-- 
 <table>
 <tr>
 <td align="center"><a href="https://github.com/captainprice27/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=captainprice27&theme=holi&show_icons=true" width="500"/>
+    
+
+    
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=captainprice27&theme=react&border=61DAFB&fire=DDB80F"/></a>
 </table>
  
@@ -89,6 +97,34 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 
 ![](https://activity-graph.herokuapp.com/graph?username=captainprice27&theme=react-dark&hide_border=true&area=true)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captainprice27&" alt="captainprice27" /></p>
+
+
+-->
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/captainprice27/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=captainprice27&theme=light&show_icons=true" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="(https://git.io/streak-stats" title="Go to Source">
+        <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=captainprice27&theme=light"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+*************************************************************************************************************
+
+
+
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/prayas.mazumder.27/" target="blank"><img align="center"
@@ -100,6 +136,9 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
     <a href="https://www.instagram.com/captainprice_27/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
+    <a href="https://www.leetcode.com/captain_price_27" target="blank"><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+            alt="anne_sd" height="30" width="40" /></a>
 </p>
 <hr>
     
