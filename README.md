@@ -145,6 +145,14 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
             alt="anne_sd" height="30" width="40" /></a>
 </p>
 <hr>
+<!--
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=captainprice27&color=blueviolet"/>
+  </p>
+  
+  -->
+
+  
 </body>
     
 
