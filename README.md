@@ -1,5 +1,7 @@
 <head><meta name="google-site-verification" content="EZ9xWb2gd0ec14D9JMq8W68uuj9LdB-44LWfqWSRv5E" /></head>
 
+<body>
+
 ### Hi there 👋
 
 <!--
@@ -143,5 +145,6 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
             alt="anne_sd" height="30" width="40" /></a>
 </p>
 <hr>
+</body>
     
 
