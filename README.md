@@ -131,7 +131,7 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/captainprice27/" target="blank"><img align="center"
+    <a href="https://www.facebook.com/captainprice027/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
             width="40" /></a>
     <a href="https://www.linkedin.com/in/prayas-mazumder//" target="blank"><img align="center"
