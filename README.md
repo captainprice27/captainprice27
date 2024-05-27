@@ -2,6 +2,12 @@
 
 <body>
 
+
+<div align="center">
+  <img width="71" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif">  </div><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Stick+No+Bills&size=35&duration=4000&color=F77900&lines=Hi+%2C+I'm+Prayas;Glad+to+see+you+here+!!">
+
+
 ### Hi there 👋
 
 <!--
@@ -19,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Prayas , currently a CS junior at Indian Institute of Engineering Science and Technology (IIEST , formerly BESU) , Shibpur (2025 pass-out) 🎓.
+I am Prayas Mazumder , currently a CS junior at Indian Institute of Engineering Science and Technology (IIEST , formerly BESU) , Shibpur (2025 pass-out) 🎓.
 I am passionate about Problem Solving , Machine Learning and AI, Mathematics , Quantum Computing with a flair for innovation and modern technology . I am also an amateur Full Stack Web Developer.
 
 
