@@ -82,6 +82,8 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 
 
 📈 Github Stats  :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainprice27)](https://github.com/captainprice27/github-readme-stats)
 ---
  
 <!-- 
@@ -148,7 +150,7 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
             width="40" /></a>
     <a href="https://www.leetcode.com/captain_price_27" target="blank"><img align="center" 
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-            alt="anne_sd" height="30" width="40" /></a>
+            alt="captain_price_27" height="30" width="40" /></a>
 </p>
 <hr>
 <!--
