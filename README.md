@@ -83,7 +83,7 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 
 📈 Github Stats  :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainprice27)](https://github.com/captainprice27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainprice27&langs_count=8&layout=donut)](https://github.com/captainprice27/github-readme-stats)
 ---
  
 <!-- 
