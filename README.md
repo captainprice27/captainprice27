@@ -82,8 +82,10 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 
 
 📈 Github Stats  :
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainprice27&langs_count=8&layout=donut)](https://github.com/captainprice27/github-readme-stats)
+-->
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=captainprice27&langs_count=20&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&layout=compact" alt="captainprice27" bg_color=#708080/>
 
 
  
@@ -120,12 +122,12 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
   <tr>
     <td align="center">
       <a href="https://github.com/captainprice27/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=captainprice27&theme=light&show_icons=true" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=captainprice27&theme=light&show_icons=true" width="450"/>
       </a>
     </td>
     <td align="center">
       <a href="(https://git.io/streak-stats" title="Go to Source">
-        <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=captainprice27&theme=light"/>
+        <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=captainprice27&theme=light"/>
       </a>
     </td>
   </tr>
