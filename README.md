@@ -98,7 +98,6 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
     
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=captainprice27&theme=react&border=61DAFB&fire=DDB80F"/></a>
 </table>
- 
 
 
 
