@@ -32,7 +32,7 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 📫 Reach me **mazumder.prayas@gmail.com**  
 🌱 I’m currently learning ... a ton of things :)   
 😄 Pronouns: he/him (obviously!!)   
-⚡ Fun fact: I'm funny ha ha ...  
+<!--⚡ Fun fact: I'm funny ha ha ...  -->
 
 
 
