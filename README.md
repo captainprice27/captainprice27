@@ -149,7 +149,7 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
     <a href="https://www.instagram.com/captainprice_27/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
-    <a href="https://www.leetcode.com/captain_price_27" target="blank"><img align="center" 
+    <a href="https://www.leetcode.com/captainprice27" target="blank"><img align="center" 
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
             alt="captain_price_27" height="30" width="40" /></a>
 </p>
