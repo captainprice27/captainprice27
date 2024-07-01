@@ -9,6 +9,11 @@
 
 ### Hi there 👋
 
+
+
+
+
+
 <!--
 **captainprice27/captainprice27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -154,12 +159,16 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
             alt="captain_price_27" height="30" width="40" /></a>
 </p>
 <hr>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=captainprice27" alt="captainprice27" /> </p>
 <!--
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=captainprice27&color=blueviolet"/>
   </p>
   
   -->
+
+ 
 
   
 </body>
