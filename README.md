@@ -160,7 +160,7 @@ Beyond the realm of academics , I am an avid Sports lover .I love playing Cricke
 </p>
 <hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=captainprice27" alt="captainprice27" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=captainprice27" alt="captainprice27 profile-viewer" /> </p>
 <!--
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=captainprice27&color=blueviolet"/>
